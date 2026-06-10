@@ -38,25 +38,25 @@ import nmdpOutcome2 from "../assets/US作品集网站用图/NMDP项目outcome图
 
 // ── MoMo ──────────────────────────────────────────────────────────────────
 import momoCover     from "../assets/US作品集网站用图/MOMO项目封面图（以及大标题背景图）.jpg"
-import momoContext   from "../assets/US作品集网站用图/MOMO项目手绘产品草稿图.webp"
-import momoProcess   from "../assets/US作品集网站用图/MOMO项目低保真草稿图.png"
-import momoOutcome   from "../assets/US作品集网站用图/MOMO项目手机界面高保真图.webp"
-import momoBlueprint from "../assets/US作品集网站用图/MOMO项目最终的服务蓝图.png"
+import momoContext   from "../assets/US作品集网站用图/MOMO项目手绘产品草稿图.jpg"
+import momoProcess   from "../assets/US作品集网站用图/MOMO项目低保真草稿图.jpg"
+import momoOutcome   from "../assets/US作品集网站用图/MOMO项目手机界面高保真图.jpg"
+import momoBlueprint from "../assets/US作品集网站用图/MOMO项目最终的服务蓝图.jpg"
 import momoRender    from "../assets/US作品集网站用图/MOMO项目产品渲染图.jpg"
 
 // ── Silver Linings ────────────────────────────────────────────────────────
 import silverCover     from "../assets/US作品集网站用图/silver linings项目封面图以及大标题背景图.png"
-import silverContext   from "../assets/US作品集网站用图/silver linings项目草稿手绘图.png"
+import silverContext   from "../assets/US作品集网站用图/silver linings项目草稿手绘图.jpg"
 import silverProcess   from "../assets/US作品集网站用图/silver linings项目流程图.png"
 import silverImg1      from "../assets/US作品集网站用图/silver linings项目过程图1.jpg"
-import silverBlueprint from "../assets/US作品集网站用图/silver linings项目服务蓝图（放倒数第二张图）.png"
+import silverBlueprint from "../assets/US作品集网站用图/silver linings项目服务蓝图（放倒数第二张图）.jpg"
 import silverHifi      from "../assets/US作品集网站用图/silver linings项目高保真图（放最后）.png"
 
 // ── Species Symphony ──────────────────────────────────────────────────────
 import speciesCover   from "../assets/US作品集网站用图/Species Symphony项目封面图以及大标题背景图.png"
 import speciesHero    from "../assets/US作品集网站用图/Species Symphony项目大标题背景图.png"
 import speciesProcess from "../assets/US作品集网站用图/Species Symphony项目草稿图（要求背景是深蓝色）.jpg"
-import speciesOutcome from "../assets/US作品集网站用图/Species Symphony项目界面图.png"
+import speciesOutcome from "../assets/US作品集网站用图/Species Symphony项目界面图.jpg"
 
 // ── RainVeil ──────────────────────────────────────────────────────────────
 import rainveilCover   from "../assets/US作品集网站用图/RainVeil项目封面图以及大标题背景图.png"
