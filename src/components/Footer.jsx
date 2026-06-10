@@ -12,7 +12,7 @@ export default function Footer() {
             Email
           </a>
           <a
-            href="https://www.linkedin.com/in/yulin-li"
+            href="http://www.linkedin.com/in/yulin-li-1b256a380"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__link"

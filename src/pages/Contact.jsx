@@ -51,12 +51,12 @@ export default function Contact() {
             <div className="contact-page__info-section">
               <h3 className="sidebar-label">LinkedIn</h3>
               <a
-                href="https://www.linkedin.com/in/yulin-li"
+                href="http://www.linkedin.com/in/yulin-li-1b256a380"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-page__link"
               >
-                linkedin.com/in/yulin-li
+                linkedin.com/in/yulin-li-1b256a380
               </a>
             </div>
             <div className="contact-page__info-section">
