@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import ProjectCard from '../components/ProjectCard'
 import { mastersProjects } from '../data/projects'
 import { useInView } from '../hooks/useScrollAnimation'
-import editorialImg from '../assets/US作品集网站用图/个人照片.jpg'
+import editorialImg from '../assets/hero.png'
 
 const MARQUEE_ITEMS = [
   'Interaction Design', 'Systems Thinking', 'UX Research',

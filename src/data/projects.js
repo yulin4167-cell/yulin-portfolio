@@ -1,97 +1,9 @@
-// ─── All images from: src/assets/US作品集网站用图/ ────────────────────────
-// Filenames are the source of truth for project + slot assignments.
-
-// ── Kindred Care ──────────────────────────────────────────────────────────
-import kindredCover   from "../assets/US作品集网站用图/Kindred Care项目封面图.webp"
-import kindredHero    from "../assets/US作品集网站用图/Kindred Care项目大标题背景图.webp"
-import kindredContext from "../assets/US作品集网站用图/Kindred Care项目Stakeholder Map3.0.png"
-import kindredProcess from "../assets/US作品集网站用图/Kindred Care项目waveline.png"
-import kindredOutcome from "../assets/US作品集网站用图/Kindred Care项目ideal图2.webp"
-import kindredSpatial from "../assets/US作品集网站用图/Kindred Care项目空间设计ideal图.png"
-import kindredHifi1   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图1.png"
-import kindredHifi2   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图2.png"
-import kindredHifi3   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图3.png"
-import kindredHifi4   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图4.png"
-import kindredHifi5   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图5.png"
-import kindredHifi6   from "../assets/US作品集网站用图/Kindred Care项目界面高保真图6.png"
-
-// ── Scent Library ─────────────────────────────────────────────────────────
-import scentCover   from "../assets/US作品集网站用图/scent library项目封面图.webp"
-import scentHero    from "../assets/US作品集网站用图/scent library项目大标题背景图.webp"
-import scentProcess from "../assets/US作品集网站用图/scent library项目ideal图1.webp"
-import scentOutcome from "../assets/US作品集网站用图/scent library项目最终成果图.webp"
-import scentIdeal2  from "../assets/US作品集网站用图/scent library项目ideal图2.webp"
-import scentIdeal3  from "../assets/US作品集网站用图/scent library项目ideal图3.webp"
-import scentIdeal4  from "../assets/US作品集网站用图/scent library项目ideal图4.webp"
-
-// ── Listable ──────────────────────────────────────────────────────────────
-import listableCover   from "../assets/US作品集网站用图/Listable项目封面图.jpg"
-import listableHero    from "../assets/US作品集网站用图/Listable大标题背景图.jpg"
-import listableContext from "../assets/US作品集网站用图/Listable项目调查图（problems）.png"
-import listableProcess from "../assets/US作品集网站用图/Listable项目界面低保真iteration图.png"
-
-// ── NMDP ──────────────────────────────────────────────────────────────────
-import nmdpCover      from "../assets/US作品集网站用图/NMDP项目封面图以及大标题后面的背景图.jpg"
-import nmdpContext    from "../assets/US作品集网站用图/NMDP项目设计背景阐述图1.jpg"
-import nmdpProcess    from "../assets/US作品集网站用图/NMDP项目当前系统分析图.png"
-import nmdpOutcome    from "../assets/US作品集网站用图/NMDP项目产出图.png"
-import nmdpMindmap    from "../assets/US作品集网站用图/NMDP项目mindmap图.jpg"
-import nmdpCausal     from "../assets/US作品集网站用图/NMDP项目causal loop图.png"
-import nmdpOutcome2   from "../assets/US作品集网站用图/NMDP项目outcome图.png"
-
-// ── MoMo ──────────────────────────────────────────────────────────────────
-import momoCover     from "../assets/US作品集网站用图/MOMO项目封面图（以及大标题背景图）.jpg"
-import momoContext   from "../assets/US作品集网站用图/MOMO项目手绘产品草稿图.png"
-import momoProcess   from "../assets/US作品集网站用图/MOMO项目低保真草稿图.png"
-import momoOutcome   from "../assets/US作品集网站用图/MOMO项目手机界面高保真图.png"
-import momoBlueprint from "../assets/US作品集网站用图/MOMO项目最终的服务蓝图.png"
-import momoRender    from "../assets/US作品集网站用图/MOMO项目产品渲染图.png"
-
-// ── Silver Linings ────────────────────────────────────────────────────────
-// Filename notes: 服务蓝图 = "place second to last"; 高保真图 = "place last"
-import silverCover     from "../assets/US作品集网站用图/silver linings项目封面图以及大标题背景图.png"
-import silverContext   from "../assets/US作品集网站用图/silver linings项目草稿手绘图.png"
-import silverProcess   from "../assets/US作品集网站用图/silver linings项目流程图.png"
-import silverImg1      from "../assets/US作品集网站用图/silver linings项目过程图1.png"
-import silverBlueprint from "../assets/US作品集网站用图/silver linings项目服务蓝图（放倒数第二张图）.png"
-import silverHifi      from "../assets/US作品集网站用图/silver linings项目高保真图（放最后）.png"
-
-// ── Species Symphony ──────────────────────────────────────────────────────
-import speciesCover   from "../assets/US作品集网站用图/Species Symphony项目封面图以及大标题背景图.png"
-import speciesHero    from "../assets/US作品集网站用图/Species Symphony项目大标题背景图.png"
-import speciesProcess from "../assets/US作品集网站用图/Species Symphony项目草稿图（要求背景是深蓝色）.png"
-import speciesOutcome from "../assets/US作品集网站用图/Species Symphony项目界面图.png"
-
-// ── RainVeil ──────────────────────────────────────────────────────────────
-import rainveilCover   from "../assets/US作品集网站用图/RainVeil项目封面图以及大标题背景图.png"
-import rainveilContext from "../assets/US作品集网站用图/RainVeil项目手绘草稿图.png"
-import rainveilProcess from "../assets/US作品集网站用图/RainVeil项目代码过程图1.png"
-import rainveilOutcome from "../assets/US作品集网站用图/RainVeil项目理想效果图.png"
-import rainveilImg1    from "../assets/US作品集网站用图/RainVeil项目代码过程图2.png"
-import rainveilImg2    from "../assets/US作品集网站用图/RainVeil项目代码过程图3.png"
-
-// ── Hidden UI ─────────────────────────────────────────────────────────────
-import hiddenUICover   from "../assets/US作品集网站用图/Hidden UI项目封面图.jpg"
-import hiddenUIHero    from "../assets/US作品集网站用图/Hidden UI项目大标题背景图.jpg"
-import hiddenUIProcess from "../assets/US作品集网站用图/Hidden UI项目制作过程图1.jpg"
-import hiddenUIOutcome from "../assets/US作品集网站用图/Hidden UI项目prototype.图jpg.jpg"
-import hiddenUIImg1    from "../assets/US作品集网站用图/Hidden UI项目制作过程图2.jpg"
-
-// ── Kinetic Grove ─────────────────────────────────────────────────────────
-import kineticCover   from "../assets/US作品集网站用图/Kinetic Grove项目封面图.jpg"
-import kineticHero    from "../assets/US作品集网站用图/Kinetic Grove大标题背景图.JPG"
-import kineticProcess from "../assets/US作品集网站用图/Kinetic Grove项目ideal图.png"
-
-// ── Outcome Videos ────────────────────────────────────────────────────────
-import listableOutcomeVideo from "../assets/US作品集网站用图/Listable项目最终成果展示视频.MOV"
-import kineticOutcomeVideo  from "../assets/US作品集网站用图/Kinetic Grove最终演示视频.mp4"
-
-// ─────────────────────────────────────────────────────────────────────────
-// Notes on heroImage:
-//   Set only when the 大标题背景图 is a DIFFERENT file from 封面图.
-//   Projects where cover IS the hero bg (labeled "封面图以及大标题背景图")
-//   do NOT get a separate heroImage — the cover appears once in the body.
-// ─────────────────────────────────────────────────────────────────────────
+// ─── Image placeholder ────────────────────────────────────────────────────
+// The original project images live in src/assets/US作品集网站用图/ which is
+// listed in .gitignore and therefore unavailable on Vercel. All image/video
+// fields are replaced with a placeholder until the assets are hosted
+// separately (e.g. a CDN or public folder).
+import ph from "../assets/hero.png"
 
 export const mastersProjects = [
   {
@@ -106,13 +18,13 @@ export const mastersProjects = [
     role: "Lead Service Designer",
     duration: "14 weeks",
     tools: "Figma, Miro, Service Blueprints, User Journey Maps",
-    cover: kindredCover,
-    heroImage: kindredHero,
-    contextImage: kindredContext,
-    processImage: kindredProcess,
-    outcomeImage: kindredOutcome,
-    images: [kindredSpatial],
-    hifiImages: [kindredHifi1, kindredHifi2, kindredHifi3, kindredHifi4, kindredHifi5, kindredHifi6],
+    cover: ph,
+    heroImage: ph,
+    contextImage: null,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
+    hifiImages: [],
     color: "#DAE8DC",
     textColor: "#1C1814",
     accentColor: "#4A7A5A",
@@ -147,11 +59,11 @@ export const mastersProjects = [
     role: "Experience Designer",
     duration: "10 weeks",
     tools: "Figma, FigJam, Physical Prototyping, Competitive Analysis",
-    cover: scentCover,
-    heroImage: scentHero,
-    processImage: scentProcess,
-    outcomeImage: scentOutcome,
-    images: [scentIdeal2, scentIdeal3, scentIdeal4],
+    cover: ph,
+    heroImage: ph,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
     color: "#EDE5DA",
     textColor: "#1C1814",
     accentColor: "#A07050",
@@ -187,12 +99,11 @@ export const mastersProjects = [
     role: "Product Designer",
     duration: "8 weeks",
     tools: "Figma, Maze, Usability Testing, User Journey Mapping",
-    cover: listableCover,
-    heroImage: listableHero,
-    contextImage: listableContext,
-    processImage: listableProcess,
+    cover: ph,
+    heroImage: ph,
+    contextImage: null,
+    processImage: null,
     processImageContain: true,
-    outcomeVideo: listableOutcomeVideo,
     color: "#DDE8DE",
     textColor: "#1C1814",
     accentColor: "#4A7858",
@@ -227,11 +138,11 @@ export const mastersProjects = [
     role: "Systems Designer & UX Researcher",
     duration: "10 weeks",
     tools: "Figma, Miro, Causal Loop Diagrams, Stakeholder Maps, Action-to-Outcome Maps",
-    cover: nmdpCover,
-    contextImage: nmdpContext,
-    processImage: nmdpProcess,
-    outcomeImage: nmdpOutcome,
-    images: [nmdpMindmap, nmdpCausal, nmdpOutcome2],
+    cover: ph,
+    contextImage: null,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
     color: "#DDE0EE",
     textColor: "#1C1814",
     accentColor: "#5A5A8A",
@@ -269,11 +180,11 @@ export const undergradProjects = [
     role: "UX Designer",
     duration: "12 weeks",
     tools: "Figma, Miro, User Interviews",
-    cover: momoCover,
-    contextImage: momoContext,
-    processImage: momoProcess,
-    outcomeImage: momoOutcome,
-    images: [momoBlueprint, momoRender],
+    cover: ph,
+    contextImage: null,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
     color: "#EDE0DC",
     textColor: "#1C1814",
     accentColor: "#A06060",
@@ -299,10 +210,10 @@ export const undergradProjects = [
     role: "Service Designer",
     duration: "10 weeks",
     tools: "Figma, Service Blueprints, Journey Mapping",
-    cover: silverCover,
-    contextImage: silverContext,
-    processImage: silverProcess,
-    images: [silverImg1, silverBlueprint, silverHifi],
+    cover: ph,
+    contextImage: null,
+    processImage: null,
+    images: [],
     color: "#DCE5ED",
     textColor: "#1C1814",
     accentColor: "#4A6A80",
@@ -328,11 +239,11 @@ export const undergradProjects = [
     role: "Interaction Designer",
     duration: "10 weeks",
     tools: "Figma, Processing, Arduino",
-    cover: speciesCover,
-    heroImage: speciesHero,
-    processImage: speciesProcess,
+    cover: ph,
+    heroImage: ph,
+    processImage: null,
     processImageBg: "#0D1B2A",
-    outcomeImage: speciesOutcome,
+    outcomeImage: null,
     color: "#DCE8DC",
     textColor: "#1C1814",
     accentColor: "#4A7A4A",
@@ -358,11 +269,11 @@ export const undergradProjects = [
     role: "Designer & Maker",
     duration: "10 weeks",
     tools: "Arduino, Projection Mapping, Generative Audio",
-    cover: rainveilCover,
-    contextImage: rainveilContext,
-    processImage: rainveilProcess,
-    outcomeImage: rainveilOutcome,
-    images: [rainveilImg1, rainveilImg2],
+    cover: ph,
+    contextImage: null,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
     color: "#252320",
     textColor: "#F5F3EE",
     accentColor: "#C4A882",
@@ -392,11 +303,11 @@ export const experiments = [
     role: "Interaction Designer",
     duration: "6 weeks",
     tools: "Protopie, Arduino, Haptic Prototyping",
-    cover: hiddenUICover,
-    heroImage: hiddenUIHero,
-    processImage: hiddenUIProcess,
-    outcomeImage: hiddenUIOutcome,
-    images: [hiddenUIImg1],
+    cover: ph,
+    heroImage: ph,
+    processImage: null,
+    outcomeImage: null,
+    images: [],
     color: "#1E1D1B",
     textColor: "#F5F3EE",
     accentColor: "#C4A882",
@@ -423,10 +334,9 @@ export const experiments = [
     role: "Designer & Prototyper",
     duration: "8 weeks",
     tools: "Arduino, Depth Sensors, Generative Audio, TouchDesigner",
-    cover: kineticCover,
-    heroImage: kineticHero,
-    processImage: kineticProcess,
-    outcomeVideo: kineticOutcomeVideo,
+    cover: ph,
+    heroImage: ph,
+    processImage: null,
     color: "#1A2A1E",
     textColor: "#F5F3EE",
     accentColor: "#7AB882",

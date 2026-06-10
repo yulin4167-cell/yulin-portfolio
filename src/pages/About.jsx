@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom'
 import { useInView } from '../hooks/useScrollAnimation'
-import yulinDanceImg from '../assets/US作品集网站用图/个人爱好展示图1（热爱跳舞）.png'
-import yulinPetImg   from '../assets/US作品集网站用图/个人爱好展示图2（喜欢小动物，家有萌宠叫薯条）.png'
-import yulinFoodImg  from '../assets/US作品集网站用图/个人爱好展示图3（热爱探索美食）.png'
+import ph from '../assets/hero.png'
+const yulinDanceImg = ph
+const yulinFoodImg  = ph
+const yulinPetImg   = ph
 
 export default function About() {
   const [heroRef, heroIn] = useInView({ threshold: 0.01 })
