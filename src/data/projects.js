@@ -1,8 +1,3 @@
-// ─── Image placeholder ────────────────────────────────────────────────────
-// The original project images live in src/assets/US作品集网站用图/ which is
-// listed in .gitignore and therefore unavailable on Vercel. All image/video
-// fields are replaced with a placeholder until the assets are hosted
-// separately (e.g. a CDN or public folder).
 import ph from "../assets/hero.png"
 
 export const mastersProjects = [
