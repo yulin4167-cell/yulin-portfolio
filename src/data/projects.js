@@ -26,9 +26,6 @@ import listableCover   from "../assets/US作品集网站用图/Listable项目封
 import listableHero    from "../assets/US作品集网站用图/Listable大标题背景图.jpg"
 import listableContext from "../assets/US作品集网站用图/Listable项目调查图（problems）.jpg"
 import listableProcess from "../assets/US作品集网站用图/Listable项目界面低保真iteration图.png"
-import listableImg1    from "../assets/US作品集网站用图/Listable项目装饰图1.JPG"
-import listableImg2    from "../assets/US作品集网站用图/Listable项目装饰图2.JPG"
-import listableImg3    from "../assets/US作品集网站用图/Listable项目装饰图3.JPG"
 
 // ── NMDP ──────────────────────────────────────────────────────────────────
 import nmdpCover    from "../assets/US作品集网站用图/NMDP项目封面图以及大标题后面的背景图.jpg"
@@ -77,11 +74,9 @@ import hiddenUIOutcome from "../assets/US作品集网站用图/Hidden UI项目pr
 import hiddenUIImg1    from "../assets/US作品集网站用图/Hidden UI项目制作过程图2.jpg"
 
 // ── Kinetic Grove ─────────────────────────────────────────────────────────
-// Note: 最终演示视频.mp4 is gitignored — using final test photo instead
 import kineticCover   from "../assets/US作品集网站用图/Kinetic Grove项目封面图.jpg"
 import kineticHero    from "../assets/US作品集网站用图/Kinetic Grove大标题背景图.JPG"
 import kineticProcess from "../assets/US作品集网站用图/Kinetic Grove项目ideal图.png"
-import kineticOutcome from "../assets/US作品集网站用图/Kinetic Grove项目最终测试图.jpg"
 
 export const mastersProjects = [
   {
@@ -182,7 +177,7 @@ export const mastersProjects = [
     contextImage: listableContext,
     processImage: listableProcess,
     processImageContain: true,
-    images: [listableImg1, listableImg2, listableImg3],
+    outcomeVideo: "/videos/listable-outcome.mp4",
     color: "#DDE8DE",
     textColor: "#1C1814",
     accentColor: "#4A7858",
@@ -416,7 +411,7 @@ export const experiments = [
     cover: kineticCover,
     heroImage: kineticHero,
     processImage: kineticProcess,
-    outcomeImage: kineticOutcome,
+    outcomeVideo: "/videos/kinetic-grove-outcome.mp4",
     color: "#1A2A1E",
     textColor: "#F5F3EE",
     accentColor: "#7AB882",
